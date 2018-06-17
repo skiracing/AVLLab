@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AVLNode
+comment1.params=
+comment1.target=AVLNode()
+comment10.params=
+comment10.target=void\ setHeight()
+comment11.params=
+comment11.target=int\ getHeight()
+comment2.params=data
+comment2.target=AVLNode(int)
+comment3.params=
+comment3.target=int\ numChildren()
+comment4.params=data
+comment4.target=void\ setElement(int)
+comment5.params=
+comment5.target=int\ getElement()
+comment6.params=
+comment6.target=AVLNode\ getRight()
+comment7.params=node
+comment7.target=void\ setRight(AVLNode)
+comment8.params=
+comment8.target=AVLNode\ getLeft()
+comment9.params=node
+comment9.target=void\ setLeft(AVLNode)
+numComments=12
